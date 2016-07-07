@@ -36,8 +36,7 @@ class Carpeta{
         }
         return tamanoTotal;
     }
-    
-    //
+
       // forma 2:
 //    public long getTamano(File carpeta){
 //        long tamanoTotal = 0;
